@@ -1,2 +1,3 @@
-# hello-world
-Following the Hello World tutorial.
+# Introducing myself
+My name is Lee Seong Jun.
+I'm currently studying Computer Science and Engineering at Kyung Hee University.
